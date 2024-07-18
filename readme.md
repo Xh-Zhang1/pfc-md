@@ -1,5 +1,3 @@
-# Understanding the computational of time using neural network models
-By Zedong Bi and Changsong Zhou. arXiv: 1910.05546
 
 ## Dependencies
 python 3.6, pytorch, sklearn, numba
@@ -40,7 +38,3 @@ perform many cognitive tasks. Nat. Neurosci., 22, 297 (2019).
 of neural representations underlying
 short-term memory. Nat. Neurosci., 22, 275 (2019).
 
-
-
- 
-# pfc-md
