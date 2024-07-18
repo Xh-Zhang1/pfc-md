@@ -3,7 +3,6 @@
 python 3.6, pytorch, sklearn, numba
 
 ## Contents
-
 The folder 'multi_4present_context' contains the models used to study the cross-modal
 context-dependent decision-making task (CAC & RDM subtasks). This is referred to first-type
 context-dependent decision-making task (Figures 1-5)
